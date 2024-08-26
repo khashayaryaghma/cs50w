@@ -1,14 +1,10 @@
 html,
 body {
-  height: 75%;
-}
-
-.container {
-  height: 100%;
+  height: 75vh;
 }
 
 .form-rounded {
-  border-radius: 1rem;
+  border-radius: 1.5rem;
 }
 
 .nav-link {
